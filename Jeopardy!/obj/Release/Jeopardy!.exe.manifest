@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="0.0.2.1" name="Jeopardy!.exe" publicKeyToken="12e618188cf59e35" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Jeopardy!" version="1.0.0.0" publicKeyToken="860D7ACEA8994021" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Jeopardy!.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" />
+        <requestedExecutionLevel  level="requireAdministrator" />
+        <requestedExecutionLevel  level="highestAvailable" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jeopardy!.exe" size="164864">
+      <assemblyIdentity name="Jeopardy!" version="1.0.0.0" publicKeyToken="860D7ACEA8994021" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yFhwCV8Iu6RV5BVCDtXMfroKvos=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=DN45K631\Howard" issuerKeyHash="15649c95000b4e57bcf33e988aaf523f4ba94817" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>U0dYL0+oa3Cu+kp+NHLIVOcUUxY=</DigestValue></Reference></SignedInfo><SignatureValue>x89bJ66FDjCP/PKUKlu8j7odfrIeY4RABbE2PDPZFpo15sASiUfhBP2Z1Go9asYkSiJ8+AtoB4sOSA/Fj/3wKVrIDfSRnpRV2Phk4ncafspiT9zqetF0dyztx/wsz41gK2pvMMRJ4O5jqBY+Jw/B3XQufP1M5WAamOBQWONFhOg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yyXzwyrUIqgfQuUA006zbVY9hvz/HZsjc1WOvD3xJ7EsU+apwSbXfqZc9EtrPGaWu7RusiAf03Riw+iwkQ0PZMrkMr2VznUGnaC2PB1VGEItFr7b7kwGjYZjmjzLYNN+/KDGro52fqtFwJ/Apu0HsMnUGc5IaJIaMHA4BF+R2IE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="165314e754c872347e4afaae706ba84f2f584753" Description="" Url=""><as:assemblyIdentity version="0.0.2.1" name="Jeopardy!.exe" publicKeyToken="12e618188cf59e35" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DN45K631\Howard</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>IFeWm3JFUBskAb8lRFgGiW/uwHc=</DigestValue></Reference></SignedInfo><SignatureValue>bozTXO/FgXcx75XNfBSKXALeHk8T/UZtyRsUwW7UNr3LE7qsv+qlSFsS/Oa53fnyjgECvGcek3Qd8CvCBioiRl6bfzbfHWKow+gYFaV3ywk54FdcpgIcK2hbw3cp1T6ZxjJlVjVawiHi2JS/GbDX23+2zZJRd4K+HG8MLfJbopA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yyXzwyrUIqgfQuUA006zbVY9hvz/HZsjc1WOvD3xJ7EsU+apwSbXfqZc9EtrPGaWu7RusiAf03Riw+iwkQ0PZMrkMr2VznUGnaC2PB1VGEItFr7b7kwGjYZjmjzLYNN+/KDGro52fqtFwJ/Apu0HsMnUGc5IaJIaMHA4BF+R2IE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATqgAwIBAgIQuA9wm3jdN6pI0rpbPW+6tDAJBgUrDgMCHQUAMCkxJzAlBgNVBAMeHgBEAE4ANAA1AEsANgAzADEAXABIAG8AdwBhAHIAZDAeFw0wNzExMTkwMzQ5MTZaFw0wODExMTgwOTQ5MTZaMCkxJzAlBgNVBAMeHgBEAE4ANAA1AEsANgAzADEAXABIAG8AdwBhAHIAZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyyXzwyrUIqgfQuUA006zbVY9hvz/HZsjc1WOvD3xJ7EsU+apwSbXfqZc9EtrPGaWu7RusiAf03Riw+iwkQ0PZMrkMr2VznUGnaC2PB1VGEItFr7b7kwGjYZjmjzLYNN+/KDGro52fqtFwJ/Apu0HsMnUGc5IaJIaMHA4BF+R2IECAwEAATAJBgUrDgMCHQUAA4GBAHXWqbKuwoyXj8RFPQjnJYMPVbNOa0n4HC2eN9tUzdtE8mDBK9s7mARMFp5h+Dnw6pPs5dmXJnmpnyfS1o+8crBVruRYnb1K4uYd64RWRUcduM5pFXCs9/qMITMdMHjW8LggqFNKDSmI2IZ1BviD8f1UgOXMzAKjR4CY1Ichcymt</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

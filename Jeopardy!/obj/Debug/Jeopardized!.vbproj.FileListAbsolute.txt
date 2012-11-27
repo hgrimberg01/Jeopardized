@@ -1,0 +1,56 @@
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized!.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.exe.manifest
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.application
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.exe
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.pdb
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.xml
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.About.resources
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaEdit.resources
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaGrp.resources
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaProb.resources
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.frmMain.resources
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.Resources.resources
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.exe.manifest
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.application
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.exe
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.xml
+C:\Documents and Settings\Howard\My Documents\Visual Studio 2008\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.pdb
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.exe
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.xml
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.pdb
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.About.resources
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaEdit.resources
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaGrp.resources
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaProb.resources
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.frmMain.resources
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.Resources.resources
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized!.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.exe.manifest
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.application
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.exe
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.pdb
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.xml
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.exe.manifest
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.application
+C:\Documents and Settings\Howard\My Documents\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.debug.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.exe
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.xml
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.pdb
+G:\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.exe.manifest
+G:\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.application
+G:\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.exe
+G:\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.pdb
+G:\vs8\Projects\Jeopardy!\Jeopardy!\bin\Debug\Jeopardyized!.xml
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\ResolveAssemblyReference.cache
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.About.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.debug.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaEdit.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaGrp.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.diaProb.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.frmMain.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized_.Resources.resources
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardized!.vbproj.GenerateResource.Cache
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.exe.manifest
+G:\vs8\Projects\Jeopardy!\Jeopardy!\obj\Debug\Jeopardyized!.application
